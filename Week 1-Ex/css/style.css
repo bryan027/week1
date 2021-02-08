@@ -1,0 +1,25 @@
+body{ 
+    background-color: #4B0082;
+}
+div {
+    background-color: #A9B3CE;
+    width: 200px;
+    border: 20px solid #DC493A;
+    padding: 10px;
+    margin: 20px;
+  }
+
+.intro {
+    font-size: 120%;
+  color: #EF946C;
+    /* background-color: #D16666; */
+  }
+  #myHeader {
+    background-color: #0496FF;
+    color: #9BC4BC;
+    padding: 20px;
+    text-align: center;
+  } 
+  /* #note{
+      color:#0496FF;
+  } */
